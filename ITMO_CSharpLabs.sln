@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO_CSharpLabs_Lab3_Ex.1-3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO_CSharpLabs_Lab5_Ex.2", "ITMO_CSharpLabs_Lab5_Ex.2\ITMO_CSharpLabs_Lab5_Ex.2.csproj", "{D1CB7222-2F3E-4233-B62D-0A95E349C1EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO_CSharpLabs_Lab8_Ex.1-2", "ITMO_CSharpLabs_Lab8_Ex.1-2\ITMO_CSharpLabs_Lab8_Ex.1-2.csproj", "{662B5E5D-079A-43DF-86E6-52C8E374AA9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO_CSharpLabs_Lab9_Ex.1", "ITMO_CSharpLabs_Lab9_Ex.1\ITMO_CSharpLabs_Lab9_Ex.1.csproj", "{91D3999D-CAB3-4389-AA7F-3F83F1E3E4E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{D1CB7222-2F3E-4233-B62D-0A95E349C1EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1CB7222-2F3E-4233-B62D-0A95E349C1EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1CB7222-2F3E-4233-B62D-0A95E349C1EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{662B5E5D-079A-43DF-86E6-52C8E374AA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662B5E5D-079A-43DF-86E6-52C8E374AA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662B5E5D-079A-43DF-86E6-52C8E374AA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662B5E5D-079A-43DF-86E6-52C8E374AA9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D3999D-CAB3-4389-AA7F-3F83F1E3E4E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D3999D-CAB3-4389-AA7F-3F83F1E3E4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D3999D-CAB3-4389-AA7F-3F83F1E3E4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D3999D-CAB3-4389-AA7F-3F83F1E3E4E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
